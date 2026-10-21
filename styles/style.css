@@ -23,9 +23,8 @@
 .header__link {
   font-size: 18px;
   line-height: 1.2;
-  text-underline-offset: 3px;
-  text-transform: lowercase;
   text-underline-offset: 4px;
+  text-transform: lowercase;
 }
 
 .header__link_active,
